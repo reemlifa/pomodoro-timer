@@ -1,4 +1,4 @@
-# Pomodoro Timer, a simple study distraction free study timer that helps you study in increments 
+# Pomodoro Timer, a simple study distraction free study timer that helps you study in increments <br>
 --- 
 title: Pomodoro Timer  
 author: Reem Khalifa  

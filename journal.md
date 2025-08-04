@@ -38,3 +38,9 @@ i learned there was a whole host of things wrong with my schematic that seem tin
 <img width="618" height="388" alt="Screenshot 2025-08-05 at 12 06 47 AM" src="https://github.com/user-attachments/assets/e9325064-e344-4dd1-88c2-0099af627a4c" />
 **Total time spent: 2h**
 
+# August 5th: woohooo i finished the pcb!!! (i think)
+wiring didn't take long although i keep having znxiety that i am doing something wrong and that when i actually spend money on this its gonna fail
+
+<img width="874" height="702" alt="Screenshot 2025-08-05 at 12 28 07 AM" src="https://github.com/user-attachments/assets/17dd78c8-06b4-430c-876d-1a4fcc24a36d" />
+
+**Total time spent: 0.5h**

@@ -31,3 +31,9 @@ i made a schematic!! heres my current bom
 time to make my pcb :D
 
 **Total time spent: 5h**
+
+# August 5th: updated the schematic, added footprints
+i learned there was a whole host of things wrong with my schematic that seem tiny but would've probably ruined something. i was using smd over dip for the xiao (i hate smd) i changed the oled footprint to the one grounded uses, added the footprint for mofset and motors and diodes. 
+
+<img width="618" height="388" alt="Screenshot 2025-08-05 at 12 06 47 AM" src="https://github.com/user-attachments/assets/e9325064-e344-4dd1-88c2-0099af627a4c" />
+
